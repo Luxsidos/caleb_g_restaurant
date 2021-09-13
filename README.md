@@ -37,4 +37,22 @@ https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release
 <h2> MyProfile page: </h2>
 <a href="https://ibb.co/wCrW0bM"><img src="https://i.ibb.co/TRq8vnm/Screenshot-20210913-151330.jpg" alt="Screenshot-20210913-151330" width="200" border="0"></a>
 <br>
+<br>
 
+pubspace.yaml da ishlating:
+<br>
+cupertino_icons: ^1.0.2
+<br>
+firebase_auth: ^3.1.0
+<br>
+firebase_core: ^1.6.0
+<br>
+cloud_firestore: ^2.5.1
+<br>
+google_fonts: ^2.1.0
+<br>
+flutter_zoom_drawer: ^2.1.1
+<br>
+cached_network_image: ^3.1.0
+<br>
+flutter_launcher_icons: ^0.9.2
