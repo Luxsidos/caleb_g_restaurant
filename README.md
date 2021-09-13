@@ -39,7 +39,7 @@ https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release
 <br>
 <br>
 
-pubspace.yaml da ishlating:
+<h3> pubspace.yaml da ishlating: </h3>
 <br>
 cupertino_icons: ^1.0.2
 <br>
