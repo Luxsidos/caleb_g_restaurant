@@ -1,5 +1,5 @@
 # caleb_g_restaurant
-Ushbu dastur flutterd firebasedan foydalanib ishlandi. Restaurant taomlarini yetkazib beruvchi dastur.
+Ushbu dastur flutterda firebasedan foydalanib ishlandi. Restaurant taomlarini yetkazib beruvchi dastur.
 Deadline 3 day bo'lgani uchun applicationda kamchiliklar bo'lishi mumkin
 
 <br>
@@ -7,6 +7,7 @@ Deadline 3 day bo'lgani uchun applicationda kamchiliklar bo'lishi mumkin
 https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release.apk
 <br>
 <h3> Video Shaklida: </h3>
+
 
 <a href="https://user-images.githubusercontent.com/85457481/133080714-e430c54e-6f79-46f5-9a8c-8ff725081122.gif"><img src="https://user-images.githubusercontent.com/85457481/133080714-e430c54e-6f79-46f5-9a8c-8ff725081122.gif" alt="Screenshot-20210913-151337" width="200" border="0"></a>
 <br>
