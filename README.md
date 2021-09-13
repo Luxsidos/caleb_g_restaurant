@@ -1,5 +1,6 @@
 # caleb_g_restaurant
-Ushbu dastur flutterd firebasedan foydalanib ishlandi. Restaurant taomlarini yetkazib beruvchi dastur
+Ushbu dastur flutterd firebasedan foydalanib ishlandi. Restaurant taomlarini yetkazib beruvchi dastur.
+Deadline 3 day bo'lgani uchun applicationda kamchiliklar bo'lishi mumkin
 
 <br>
 <h3> Applicationni yuklab olish uchun: </h3>
