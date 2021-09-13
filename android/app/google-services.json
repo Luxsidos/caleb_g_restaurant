@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1083062889109",
+    "project_id": "caleb-j-restaurant",
+    "storage_bucket": "caleb-j-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083062889109:android:dd2e99802faa2f3917099c",
+        "android_client_info": {
+          "package_name": "com.example.caleb_j_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083062889109-1jms6a5eqdigldio1ecual1h8f059600.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caleb_j_restaurant",
+            "certificate_hash": "18690dfadab08ae5668f9557a3621375f24d62b5"
+          }
+        },
+        {
+          "client_id": "1083062889109-qeod7s7ntvihe8jm4emoib3hllc2454o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3Ho60XYcCLCchCvNcuGetslmpkDUVTPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083062889109-qeod7s7ntvihe8jm4emoib3hllc2454o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
