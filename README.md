@@ -7,7 +7,7 @@ https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release
 <br>
 <h3> Video Shaklida: </h3>
 
-<a href="https://user-images.githubusercontent.com/85457481/133080714-e430c54e-6f79-46f5-9a8c-8ff725081122.gif"><img src="https://i.ibb.co/Jpxm5XB/Screenshot-20210913-151337.jpg" alt="Screenshot-20210913-151337" width="200" border="0"></a>
+<a href="https://user-images.githubusercontent.com/85457481/133080714-e430c54e-6f79-46f5-9a8c-8ff725081122.gif"><img src="https://user-images.githubusercontent.com/85457481/133080714-e430c54e-6f79-46f5-9a8c-8ff725081122.gif" alt="Screenshot-20210913-151337" width="200" border="0"></a>
 <br>
 <br>
 <h2> History page: </h2>
