@@ -17,5 +17,5 @@ Ushbu dastur flutterd firebasedan foydalanib ishlandi. Restaurant taomlarini yet
 <a href="https://ibb.co/8NWk5BN"><img src="https://i.ibb.co/zQydR5Q/Screenshot-20210913-151323.jpg" alt="Screenshot-20210913-151323" width="200" border="0"></a>
 <a href="https://ibb.co/wCrW0bM"><img src="https://i.ibb.co/TRq8vnm/Screenshot-20210913-151330.jpg" alt="Screenshot-20210913-151330" width="200" border="0"></a>
 <br>
-<h4> Video Shaklida: </h4>
+<h3> Video Shaklida: </h3>
 <a href="https://ibb.co/0YjqLzH"><img src="https://i.ibb.co/p4v2TkY/20210913-154417-1.gif" alt="20210913-154417-1" width="200" border="0"></a>
