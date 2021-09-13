@@ -5,6 +5,9 @@ Ushbu dastur flutterd firebasedan foydalanib ishlandi. Restaurant taomlarini yet
 <h3> Applicationni yuklab olish uchun: </h3>
 https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release.apk
 <br>
+<h3> Video Shaklida: </h3>
+<a href="https://ibb.co/0YjqLzH"><img src="https://i.ibb.co/p4v2TkY/20210913-154417-1.gif" alt="20210913-154417-1" width="200" border="0"></a>
+<br>
 <br>
 <h2> History page: </h2>
 <a href="https://ibb.co/ZgHGWyL"><img src="https://i.ibb.co/Jpxm5XB/Screenshot-20210913-151337.jpg" alt="Screenshot-20210913-151337" width="200" border="0"></a>
@@ -33,5 +36,4 @@ https://github.com/Luxsidos/caleb_g_restaurant/blob/main/app-armeabi-v7a-release
 <h2> MyProfile page: </h2>
 <a href="https://ibb.co/wCrW0bM"><img src="https://i.ibb.co/TRq8vnm/Screenshot-20210913-151330.jpg" alt="Screenshot-20210913-151330" width="200" border="0"></a>
 <br>
-<h3> Video Shaklida: </h3>
-<a href="https://ibb.co/0YjqLzH"><img src="https://i.ibb.co/p4v2TkY/20210913-154417-1.gif" alt="20210913-154417-1" width="200" border="0"></a>
+
